@@ -1,0 +1,14 @@
+{
+  "name": "windTunnel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "windTunnel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "serialport": "^7.1.4",
+    "shelljs": "^0.8.3"
+  }
+}
